@@ -7,6 +7,9 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+
+  <iframe id="navbarContainer" src="navbar.html" frameborder="0" width="100%" height="50px"></iframe>
+
 <div class="container">
   <h1>Account Creation</h1>
   <form action="create_account.php" method="post">
@@ -14,10 +17,19 @@
     <input type="text" name="primary_team" required>
 
     <label for="rank">Rank:</label>
-    <input type="number" name="rank" value="3" required>
+      <select name="rank" id="rank">
+        <option value="0">Admin</option>
+        <option value="1">Trusted</option>
+        <option value="2">Committee</option>
+        <option value="3">Volunteer</option>
+      </select>
 
-    <label for="name">Name:</label>
-    <input type="text" name="name" required>
+
+    <label for="first_name">First Name:</label>
+    <input type="text" name="first_name" required>
+
+    <label for="last_name">Last Name:</label>
+    <input type="text" name="last_name">
 
     <label for="password">Password:</label>
     <input type="password" name="password" required>

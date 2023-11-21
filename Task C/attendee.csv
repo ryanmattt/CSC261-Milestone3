@@ -1,0 +1,12 @@
+First_Name,Last_Name,Email,ID,Ticket_type,Mailing_list,Date_checked_in
+null,null,null@null.com,0,Day,0,2023-01-01 11:02:00
+James,Smith,w@dmail.com,1001,Day,0,2023-01-01 11:02:00
+Dean,Sturm,b@bcloud.com,1002,Weekend,0,2023-01-01 13:09:00
+Cammy,Bens,a@dmail.com,1003,Weekend,0,2023-01-02 10:32:00
+Macy,Trout,k@bcloud.com,1004,Day,1,2023-01-03 11:54:08
+Drew,Fletcher,j@jmail.com,1005,Weekend,1,2023-01-02 14:00:00
+Kurtis,Anthony,l@dcloud.com,1006,Day,1,2023-01-01 9:30:00
+Amber,Bennet,p@gcloud.com,1007,Day,0,2023-01-04 12:12:00
+Mark,Grayson,h@dcloud.com,1008,Day,1,2023-01-02 17:44:00
+Samantha,Wilkins,l@jcloud.com,1009,Weekend,0,2023-01-05 11:45:00
+Tambry,Smith,o@wmail.com,1010,Weekend,0,2023-01-02 7:25:00

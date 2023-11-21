@@ -1,0 +1,6 @@
+Event_ID,Staff_Event_Runner_ID,Attendee_Event_Runner_ID,Max_Attendees,Length_Minutes,Name,Description,Time,Room
+4001,2000,1002,10,60,Uno Tournament,Competitive Uno,2023-01-01 11:30:00,Douglass 300
+4002,2000,1006,5,180,Tomb of Annihilation,Suffering in DND terms,2023-01-04 10:00:00,Douglass 301
+4003,2002,1000,25,180,Casual EDH,Casual commander,2023-01-02 11:30:00,Douglass 302
+4004,2004,1000,7,120,Storm King's Thunder,Entire module as a one shot,2023-01-01 13:30:00,Douglass 303
+4005,2002,1000,10,60,Skill Issue Seminar,Tips for getting good,2023-01-03 12:00:00,Douglass 304
