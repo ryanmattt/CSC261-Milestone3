@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Account Creation</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="container">
+  <h1>Account Creation</h1>
+  <form action="create_account.php" method="post">
+    <label for="primary_team">Primary Team:</label>
+    <input type="text" name="primary_team" required>
+
+    <label for="rank">Rank:</label>
+    <input type="number" name="rank" value="3" required>
+
+    <label for="name">Name:</label>
+    <input type="text" name="name" required>
+
+    <label for="password">Password:</label>
+    <input type="password" name="password" required>
+
+    <button type="submit">Create Account</button>
+  </form>
+</div>
+</body>
+</html>
