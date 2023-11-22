@@ -40,10 +40,10 @@ $conn->close();
 </head>
 
 <body>
-    <iframe id="navbarContainer" src="navbar.html" frameborder="0" width="100%" height="50px"></iframe>
+    <iframe id="navbarContainer" src="navbar.html" frameborder="0" width="100%" height="100px"></iframe>
 <div class="container">
     <h1><?php echo $message; ?></h1>
-
+</div>
 
 </body>
 

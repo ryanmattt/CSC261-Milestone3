@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
-$username = "phpmyadmin";
-$password = "k8Agop8XNjy9iAqolPr!";
+$username = "simcon";
+$password = "AkKuBabsjIbSGv7zr!";
 $dbname = "simcondb";
 
 // Create connection
